@@ -163,7 +163,7 @@ body {
     grid-area: article-3;
     border-radius: 10px;
     background-color: rgb(64, 64, 64, .7);
-    background-image: url(../img/game_of_thrones_480x800.png);
+    background-image: url(../img/Slider_Lamborghini_450x662.png);
     background-size: cover; /* la imagen se ajusta para cubrir completamente el div */
     background-repeat: no-repeat; /* para que no se repita la imagen */
     background-position: center; /* centra la imagen en el contendor div */
